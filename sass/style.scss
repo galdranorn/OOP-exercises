@@ -20,4 +20,15 @@ body {
     background: white;
     h1, h2 {text-align: center;}
     h1 {text-shadow: 2px 2px lightgrey;}
+    #firstClass{
+        text-align: center;
+        span {font-weight: bold;}
+        table {
+            width: 100%;
+            td {
+                width: 25%;
+                border: 1px dotted black;
+            }
+        }
+    }
 }

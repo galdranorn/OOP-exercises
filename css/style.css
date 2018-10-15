@@ -23,4 +23,21 @@ body {
 .container h1 {
   text-shadow: 2px 2px lightgrey;
 }
+
+.container #firstClass {
+  text-align: center;
+}
+
+.container #firstClass span {
+  font-weight: bold;
+}
+
+.container #firstClass table {
+  width: 100%;
+}
+
+.container #firstClass table td {
+  width: 25%;
+  border: 1px dotted black;
+}
 /*# sourceMappingURL=style.css.map */
